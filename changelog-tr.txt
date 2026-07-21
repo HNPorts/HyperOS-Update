@@ -1,0 +1,9 @@
+HN HyperOS
+21 Temmuz 2026
+
+• Güncellemeler sekmesi eklendi.
+• Değişiklik günlüğü GitHub üzerinden canlı olarak yükleniyor.
+• Türkçe ve İngilizce değişiklik günlükleri cihaz diline göre ayrıldı.
+• CPU kullanımı gerçek zamanlı sistem ölçümüne bağlandı.
+• Cihaz durumu termal seviye ve pil sağlığı verileriyle eşlendi.
+• Güç modu kartlarındaki hatalı gölge yüzeyi kaldırıldı.

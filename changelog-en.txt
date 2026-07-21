@@ -1,0 +1,9 @@
+HN HyperOS
+July 21, 2026
+
+• Added the Updates tab.
+• The changelog is loaded live from GitHub.
+• Turkish and English changelogs now follow the device language.
+• CPU usage now uses real-time system measurements.
+• Device status now reflects thermal and battery health data.
+• Removed the incorrect shadow surface from power mode cards.
