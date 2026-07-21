@@ -1,0 +1,7 @@
+HN HyperOS
+21 Temmuz 2026
+
+• Güncellemeler sekmesi eklendi.
+• Değişiklik günlüğü GitHub üzerinden canlı olarak yükleniyor.
+• Son başarılı değişiklik günlüğü çevrimdışı kullanım için saklanıyor.
+• Genel Bakış ve Güç Yönetimi arayüzlerinde kararlılık iyileştirmeleri yapıldı.
