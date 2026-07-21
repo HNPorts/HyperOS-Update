@@ -7,3 +7,4 @@ July 21, 2026
 • CPU usage now uses real-time system measurements.
 • Device status now reflects thermal and battery health data.
 • Removed the incorrect shadow surface from power mode cards.
+• Added processor, CPU core, GPU, total RAM and root information to the device card.

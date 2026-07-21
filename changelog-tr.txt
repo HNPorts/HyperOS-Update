@@ -7,3 +7,4 @@ HN HyperOS
 • CPU kullanımı gerçek zamanlı sistem ölçümüne bağlandı.
 • Cihaz durumu termal seviye ve pil sağlığı verileriyle eşlendi.
 • Güç modu kartlarındaki hatalı gölge yüzeyi kaldırıldı.
+• Cihaz kartına işlemci, CPU çekirdekleri, GPU, toplam RAM ve root durumu eklendi.
