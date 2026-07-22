@@ -8,3 +8,5 @@ HN HyperOS
 • Cihaz durumu termal seviye ve pil sağlığı verileriyle eşlendi.
 • Güç modu kartlarındaki hatalı gölge yüzeyi kaldırıldı.
 • Cihaz kartına işlemci, CPU çekirdekleri, GPU, toplam RAM ve root durumu eklendi.
+• Xiaomi 17 Pro Max cihaz adı, 2509FPN0BC modeli ve Snapdragon 8 Elite Gen 5 işlemci bilgileri tanımlandı.
+• Toplam RAM bilgisi 16 GB olarak tanımlandı.

@@ -8,3 +8,5 @@ July 21, 2026
 • Device status now reflects thermal and battery health data.
 • Removed the incorrect shadow surface from power mode cards.
 • Added processor, CPU core, GPU, total RAM and root information to the device card.
+• Added Xiaomi 17 Pro Max, model 2509FPN0BC and Snapdragon 8 Elite Gen 5 device identity.
+• Set the total RAM information to 16 GB.

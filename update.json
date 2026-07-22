@@ -1,0 +1,8 @@
+{
+  "device": "popsicle",
+  "version": "OS3.0.333.0-test",
+  "filename": "HN-HyperOS-OTA-test.zip",
+  "url": "https://github.com/HNPorts/HyperOS-Update/archive/refs/heads/main.zip",
+  "size_bytes": 0,
+  "sha256": ""
+}
