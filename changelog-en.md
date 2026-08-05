@@ -20,6 +20,7 @@
 • Device Status.
 • Power Management.
 • Hardware Verification.
+• Per-app Profiles
 • Live Status.
 • Quick Settings.
 • Updates.

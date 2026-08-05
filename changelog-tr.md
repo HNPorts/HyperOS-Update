@@ -14,13 +14,14 @@
 
 #HyperCore
 
-• Cihaz özellikleri.
-• Rom özellikleri.
-• Sistem durumu.
-• Cihaz durumu.
+• Cihaz Özellikleri.
+• Rom Özellikleri.
+• Sistem Durumu.
+• Cihaz Durumu.
 • Güç Yönetimi.
-• Donanım doğrulama.
-• Canlı durum.
+• Donanım Doğrulama.
+• Uygulamaya Özel Profil
+• Canlı Durum.
 • Hızlı Ayarlar.
 • Güncellemeler.
 
